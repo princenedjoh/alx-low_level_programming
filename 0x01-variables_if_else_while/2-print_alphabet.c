@@ -3,14 +3,14 @@
  * main - entry point
  * Return: returns 0
  */
-int main(void)
+char main(void)
 {
 	char l;
 
 		for (l = 'a'; l <= 'z'; l++)
 		{
 			putchar(l);
-			putchar("\n");
 		}
+	putchar('\n');
 	return (0);
 }
