@@ -14,6 +14,8 @@ int _isalpha(int c)
 
 	int isLower;
 
+	int isAlpha;
+
 	for (i = 'a'; i <= 'z'; i++)
 	{
 		for (j = 'A'; j <= 'Z'; j++)
