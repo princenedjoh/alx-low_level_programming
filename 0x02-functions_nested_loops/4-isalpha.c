@@ -24,7 +24,7 @@ int _isalpha(int c)
 			}
 		}
 	}
-	if (isLower == 1)
+	if (isAlpha == 1)
 	{
 		return (1);
 	}
