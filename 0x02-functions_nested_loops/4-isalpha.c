@@ -10,9 +10,7 @@ int _isalpha(int c)
 {
 	int i;
 
-	int j;
-
-	int isLower;
+	int j;;
 
 	int isAlpha;
 
@@ -20,7 +18,7 @@ int _isalpha(int c)
 	{
 		for (j = 'A'; j <= 'Z'; j++)
 		{
-			if (j == c || j == c)
+			if (i == c || j == c)
 			{
 				isAlpha = 1;
 			}
