@@ -10,7 +10,7 @@ int _isalpha(int c)
 {
 	int i;
 
-	int j;;
+	int j;
 
 	int isAlpha;
 
