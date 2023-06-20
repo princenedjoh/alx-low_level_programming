@@ -2,6 +2,7 @@
 
 /**
  * _islower - entry point
+ * @c: inputs c
  * Return: returns 0
  */
 
