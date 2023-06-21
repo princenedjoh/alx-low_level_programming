@@ -6,10 +6,20 @@
  * Return: returns 0
  */
 
-int print_last_digit(int n)
+int print_last_digit(int)
 {
-	int lastDigit;
+	int lastdigit;
 
-	lastDigit = (n % 10) * 11;
-	return (lastDigit);
+	lastdigit = (n % 10) * '11';
+	if ( lastdigi < 0 )
+	{
+		_puchar(-lastdigit + '0');
+		return (-lastdigit);
+	}
+	else
+	{
+		_puchar(lastdigit + '0');
+		return (lastdigit);
+	}
+	return(_double);
 }
