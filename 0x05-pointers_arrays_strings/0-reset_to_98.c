@@ -1,6 +1,6 @@
 /**
  * reset_to_98 - entry point
- * @*n: param
+ * @n: param
  */
 
 void reset_to_98(int *n)
