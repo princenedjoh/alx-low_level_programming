@@ -1,5 +1,5 @@
 /**
- * swap_int(int *a, int *b) - entry point
+ * swap_int - entry point
  * @a: parameter
  * @b: parameter
  * swap: integer
