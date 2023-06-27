@@ -1,3 +1,5 @@
+#include <stdio>
+
 /**
  * _strlen - entry point
  * @s: parameter
