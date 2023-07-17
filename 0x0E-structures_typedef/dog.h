@@ -2,7 +2,7 @@
 #define DOG_H
 
 /**
- * struct dog - dog struct 
+ * struct dog - a dog's basic
  */
 
 struct dog
